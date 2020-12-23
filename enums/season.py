@@ -1,0 +1,4 @@
+SUMMER = 1
+WINTER = 2
+FALL = 3
+SPRING = 4
